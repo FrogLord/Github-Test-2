@@ -12,6 +12,7 @@
 		1944F7B82204D48D00F100FC /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1944F7B62204D48D00F100FC /* Main.storyboard */; };
 		1944F7BA2204D48E00F100FC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1944F7B92204D48E00F100FC /* Assets.xcassets */; };
 		1944F7BD2204D48E00F100FC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1944F7BB2204D48E00F100FC /* LaunchScreen.storyboard */; };
+		19C70A552208D34E00A8142F /* Pepe.png in Resources */ = {isa = PBXBuildFile; fileRef = 19C70A542208D34E00A8142F /* Pepe.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		1944F7B92204D48E00F100FC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1944F7BC2204D48E00F100FC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		1944F7BE2204D48E00F100FC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		19C70A542208D34E00A8142F /* Pepe.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Pepe.png; path = "../../../I am Rich Image Assets/Pepe.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				1944F7B92204D48E00F100FC /* Assets.xcassets */,
 				1944F7BB2204D48E00F100FC /* LaunchScreen.storyboard */,
 				1944F7BE2204D48E00F100FC /* Info.plist */,
+				19C70A542208D34E00A8142F /* Pepe.png */,
 			);
 			path = "Github Test";
 			sourceTree = "<group>";
@@ -123,6 +126,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				1944F7BD2204D48E00F100FC /* LaunchScreen.storyboard in Resources */,
+				19C70A552208D34E00A8142F /* Pepe.png in Resources */,
 				1944F7BA2204D48E00F100FC /* Assets.xcassets in Resources */,
 				1944F7B82204D48D00F100FC /* Main.storyboard in Resources */,
 			);
